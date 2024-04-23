@@ -1,0 +1,58 @@
+.background{
+    background-color:lightblue;
+
+  }
+  .centered-text {
+    
+    top: 50%; /* Position the top edge of the container at the vertical center */
+    left: 50%; /* Position the left edge of the container at the horizontal center */
+ 
+    text-align: center; /* Center the text horizontally */
+}
+
+  .text-color{
+    color:black;
+  }
+  .img {
+  
+    width: 50%;
+   height: 50%;
+   border: 2px solid black;
+   border-radius: 10px;
+ 
+  display: inline-block;
+       text-align: center;
+
+    
+}
+.fontstyle {
+    font-family: Arial, sans-serif; /* Choose a readable font */
+    font-size: 16px; /* Adjust the font size */
+    line-height: 1.6; /* Set the line height for readability */
+    color: #333; /* Set the text color */
+    margin-bottom: 20px; /* Add space between paragraphs */
+}
+.section {
+    position: absolute;
+}
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  h1, h2, h3 {
+    margin-top: 0;
+  }
+  p {
+    margin-bottom: 10px;
+  }
